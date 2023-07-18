@@ -2,14 +2,6 @@
 
 A simple Laravel/React application for reading and obtaining and displaying content from a web page
 
-## Table of contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Installation
 
 1. Clone the repository:
